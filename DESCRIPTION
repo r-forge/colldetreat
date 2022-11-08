@@ -1,0 +1,11 @@
+Package: rvif
+Type: Package
+Title: Collinearity Detection using RVIF and Graphical Methods
+Version: 1.0
+Date: 2022-11-02
+Author: R. Salmeron and C. Garcia
+Maintainer: R. Salmeron <romansg@ugr.es>
+Description: The detection of troubling approximate collinearity in a multiple linear regression model is a classical problem in Econometrics. The objective of this package is to detect it using the variance inflation factor redefined and the scatterplot between the variance inflation factor and the coefficient of variation.
+License: GPL (>= 2)
+URL: http://colldetreat.r-forge.r-project.org/
+Depends: R (>= 3.5.0), multiColl
