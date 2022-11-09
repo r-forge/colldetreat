@@ -1,0 +1,4 @@
+export(CV_VIF)
+export(RVIF)
+import(multiColl)
+importFrom("graphics", "abline", "points", "text")
